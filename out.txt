@@ -1,0 +1,3 @@
+Brasil, 2, 0
+Chile, 2, 1
+México, 1, 1
